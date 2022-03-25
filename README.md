@@ -6,5 +6,5 @@
 1. Ashu Goyal
 2. Raju kumar
 * Tomper of ES221
-* CP wala band
+* CP wala banda
 > Sakt londa
